@@ -1,4 +1,4 @@
-Nama    : Faisall\n
-Kelas   : XI RPL 2\n
-Alamat  : Cankuang\n
+Nama    : Faisall
+Kelas   : XI RPL 2
+Alamat  : Garut
 Cita-cita : Frontend 
